@@ -1,0 +1,17 @@
+
+# Created by https://www.gitignore.io/api/basic
+# Edit at https://www.gitignore.io/?templates=basic
+
+### Basic ###
+# Apples Build
+*.build
+*.apples
+
+# Initialized files
+*.exe
+*.ini
+*.basic
+
+node_modules/
+
+# End of https://www.gitignore.io/api/basic
